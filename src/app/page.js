@@ -18,7 +18,7 @@ export default function Home() {
         </h1>
 
         <div className="flex justify-between space-x-4 mb-6">
-          <img src="/avatar.jpeg" alt="" className="rounded-full w-12 h-12" />
+          <img src="/Avatar.png" alt="" className="rounded-full w-12 h-12" />
           <div className="flex space-x-4 text-xl">
             <img src="/twitter.png" alt="" className="rounded-full w-6 h-6" />
             <img src="/insta.jpg" alt="" className="rounded-full w-6 h-6" />
