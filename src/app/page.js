@@ -71,6 +71,22 @@ export default function Home() {
               </p>
             </div>
           </div>
+
+          <div className="bg-neutral-900 rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-all">
+            <Image
+              src="/fayaas.png"
+              alt=""
+              width={600}
+              height={400}
+              className="w-full h-40 object-cover"
+            />
+            <div className="p-3">
+              <h3 className="text-sm font-bold">Fayaas-Food</h3>
+              <p className="text-xs text-neutral-400">
+                Site de foodies
+              </p>
+            </div>
+          </div>
         </div>
       </section>
     </main>
